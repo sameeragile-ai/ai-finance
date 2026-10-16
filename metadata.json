@@ -1,0 +1,6 @@
+{
+  "name": "Apex Finance Broking CRM",
+  "description": "Enterprise CRM built for Australian mortgage and finance broking businesses. Manage clients, loan pipelines, credit compliance documents, tasks, and lender settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
